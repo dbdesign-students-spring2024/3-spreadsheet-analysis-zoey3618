@@ -33,7 +33,6 @@
 | 2013 | NaN     | Jamaica                      | Female | Black          | 0                             | 0                                    | 0                               | 0                                     |
 
 3. ** Describe the problems that were present in the data and the scrubbing tasks **
-    - Data munging is a critical step in the data analysis process. It involves cleaning and transforming raw data into a format that is more suitable for analysis. We use Python code to clean a dataset without relying on specialized data munging or analysis modules such as pandas or csv. The goal is to ensure that the cleanup and transformation are repeatable, making the cleaned data ready for analysis.
   - The raw dataset contains several issues that hinder direct analysis:  
   1. **Presence of Notes**: The file includes non-data lines at the top and bottom, containing notes that must be removed.
   2. **Repeated Column Headings**: Column headings are duplicated across the file. Only the first occurrence should be retained.
