@@ -1,5 +1,6 @@
 # Spreadsheet Analysis
 ## HIV_AIDS_Diagnoses_Analysis
+   Zoey Qu: xq529; Danqing Chen: dc4829
 
 ### Data Set Details
 1. Original Data: _HIV/AIDS Diagnoses by Neighborhood, Sex, and Race/Ethnicity_
@@ -108,7 +109,10 @@
      3. AIDS diagnoses remain relatively stable from 2010 to 2013 and then increase in 2016. However, unlike HIV diagnoses, AIDS diagnoses do not show a similar sharp increase in 2020.
      4. The trend of AIDS diagnoses follows a less volatile pattern compared to HIV diagnoses, suggesting a more consistent progression from HIV to AIDS among diagnosed individuals or stable reporting practices.
      5. The general decline in both HIV and AIDS diagnoses in 2021 could be attributed to several factors including effective antiretroviral treatments, better education on prevention, or possibly the impact of global events such as the COVID-19 pandemic affecting health service access and utilization.
+##### Extra-credit
 
+This assignment deserves extra credit because it is a large data table since it has thousands of rows.
+...
 
   
 
